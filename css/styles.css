@@ -1,0 +1,17 @@
+body {
+    background: linear-gradient(rgb(4, 111, 153) , rgb(147, 233, 224));
+    color: blue;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 10%;
+    font-size: 3em;
+    justify-content: center;
+    align-items: center;
+
+}
+
+h1 {
+    color: linear-gradiant(rgb(4, 4, 82) , (rgb(99, 99, 206)));
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
